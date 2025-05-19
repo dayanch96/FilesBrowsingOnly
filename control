@@ -1,0 +1,9 @@
+Package: com.dvntm.fbo
+Name: FilesBrowsingOnly
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Displays only the Browse tab and hides the tab bar
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
